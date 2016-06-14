@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[on('${1}', '${2}', function(e){
+	${3}
+});]]></content>
+	<tabTrigger>on</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[on(type,selector,fn)]]></description>
+</snippet>

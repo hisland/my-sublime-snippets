@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<cite class="${1}">
+	
+</cite>]]></content>
+	<tabTrigger>citenc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<cite class="${1}">
+	
+</cite>]]></description>
+</snippet>

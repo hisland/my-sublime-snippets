@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input id="${1}" class="" type="image" src="" />]]></content>
+	<tabTrigger>imageic</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input id="${1}" class="" type="image" src="" />]]></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[for(var i in ${1}){
+	${2}
+}]]></content>
+	<tabTrigger>forin</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[forin loop]]></description>
+</snippet>

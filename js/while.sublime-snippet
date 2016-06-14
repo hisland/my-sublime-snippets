@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[while (${1}) {
+	
+}]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[while]]></description>
+</snippet>

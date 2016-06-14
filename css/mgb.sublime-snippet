@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[margin-bottom:${1}px;]]></content>
+	<tabTrigger>mgb</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[margin-bottom:${1}px;]]></description>
+</snippet>

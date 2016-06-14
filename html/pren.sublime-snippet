@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<pre>
+	${1}
+</pre>]]></content>
+	<tabTrigger>pren</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<pre>
+	${1}
+</pre>]]></description>
+</snippet>

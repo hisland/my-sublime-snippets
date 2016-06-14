@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[return false;${1}]]></content>
+	<tabTrigger>rf</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[return false;${1}]]></description>
+</snippet>

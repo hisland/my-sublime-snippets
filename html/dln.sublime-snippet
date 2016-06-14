@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<dl>
+	${1}
+</dl>]]></content>
+	<tabTrigger>dln</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<dl>
+	${1}
+</dl>]]></description>
+</snippet>

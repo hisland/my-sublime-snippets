@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background-color:#${1};]]></content>
+	<tabTrigger>bgcolor</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[background-color:#${1};]]></description>
+</snippet>

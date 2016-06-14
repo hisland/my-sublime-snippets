@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checked="checked"${1}]]></content>
+	<tabTrigger>tac</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[checked="checked"${1}]]></description>
+</snippet>

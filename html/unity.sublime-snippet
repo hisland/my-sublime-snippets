@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<object width="${1}" height="" codebase="http://webplayer.unity3d.com/download_webplayer-2.x/unitywebplayer.cab#version=2,0,0,0" type="application/x-oleobject" classid="clsid:444785f1-de89-4295-863a-d46c3a781394">
+	<param name="src" value="">
+	<param value="transparent" name="wmode"/>
+	<embed width="" height="" src="" wmode="transparent" pluginspage="http://www.unity3d.com/unity-web-player-2.x" type="application/vnd.unity" />
+</object>]]></content>
+	<tabTrigger>unity</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<object width="${1}" height="" codebase="http://webplayer.unity3d.com/download_webplayer-2.x/unitywebplayer.cab#version=2,0,0,0" type="application/x-oleobject" classid="clsid:444785f1-de89-4295-863a-d46c3a781394">
+	<param name="src" value="">
+	<param value="transparent" name="wmode"/>
+	<embed width="" height="" src="" wmode="transparent" pluginspage="http://www.unity3d.com/unity-web-player-2.x" type="application/vnd.unity" />
+</object>]]></description>
+</snippet>

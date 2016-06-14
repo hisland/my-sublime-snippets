@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<select id="${1}">
+	
+</select>]]></content>
+	<tabTrigger>selectni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<select id="${1}">
+	
+</select>]]></description>
+</snippet>

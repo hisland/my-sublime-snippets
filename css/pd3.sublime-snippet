@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding:${1}px px px;]]></content>
+	<tabTrigger>pd3</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[padding:${1}px px px;]]></description>
+</snippet>

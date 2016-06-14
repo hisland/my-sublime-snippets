@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<textarea class="${1}">
+	
+</textarea>]]></content>
+	<tabTrigger>textareanc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<textarea class="${1}">
+	
+</textarea>]]></description>
+</snippet>

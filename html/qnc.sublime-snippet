@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<q class="${1}">
+	
+</q>]]></content>
+	<tabTrigger>qnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<q class="${1}">
+	
+</q>]]></description>
+</snippet>

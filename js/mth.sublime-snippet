@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[,
+${1}: function(){
+	
+}]]></content>
+	<tabTrigger>mth</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[,
+${1}: function(){
+	
+}]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=crop,src='${1}');]]></content>
+	<tabTrigger>png</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=crop,src='${1}');]]></description>
+</snippet>

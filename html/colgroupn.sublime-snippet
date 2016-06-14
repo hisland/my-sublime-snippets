@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<colgroup>
+	${1}
+</colgroup>]]></content>
+	<tabTrigger>colgroupn</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<colgroup>
+	${1}
+</colgroup>]]></description>
+</snippet>

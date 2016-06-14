@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[if (${1}) {
+	${2}
+} else {
+	${3}
+}]]></content>
+	<tabTrigger>ifelse</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[if-else]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[z-index:${1};]]></content>
+	<tabTrigger>zi</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[z-index:${1};]]></description>
+</snippet>

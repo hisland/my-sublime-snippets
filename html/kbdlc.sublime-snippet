@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<kbd class="${1}"></kbd>]]></content>
+	<tabTrigger>kbdlc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<kbd class="${1}"></kbd>]]></description>
+</snippet>

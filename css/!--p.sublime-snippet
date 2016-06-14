@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[/* ==page== ${1} ==page== */]]></content>
+	<tabTrigger>!--p</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[/* ==page== ${1} ==page== */]]></description>
+</snippet>

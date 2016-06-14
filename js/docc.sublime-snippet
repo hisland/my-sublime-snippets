@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[document.createElement('${1}');]]></content>
+	<tabTrigger>docc</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[document.createElement('${1}');]]></description>
+</snippet>

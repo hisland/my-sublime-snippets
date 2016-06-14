@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<option value="" id="${1}"></option>]]></content>
+	<tabTrigger>optionli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<option value="" id="${1}"></option>]]></description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[try {
+	${1}
+} catch (e) {
+	
+}
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[try-catch]]></description>
+</snippet>

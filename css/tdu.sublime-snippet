@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-decoration:underline;]]></content>
+	<tabTrigger>tdu</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[text-decoration:underline;]]></description>
+</snippet>

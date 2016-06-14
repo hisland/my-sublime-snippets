@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<thead id="${1}"></thead>]]></content>
+	<tabTrigger>theadli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<thead id="${1}"></thead>]]></description>
+</snippet>

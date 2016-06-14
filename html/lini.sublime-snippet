@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<li id="${1}">
+	
+</li>]]></content>
+	<tabTrigger>lini</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<li id="${1}">
+	
+</li>]]></description>
+</snippet>

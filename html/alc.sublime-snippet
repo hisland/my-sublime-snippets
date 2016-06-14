@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<a class="${1}" href="javascript:;"></a>]]></content>
+	<tabTrigger>alc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<a class="${1}" href="javascript:;"></a>]]></description>
+</snippet>

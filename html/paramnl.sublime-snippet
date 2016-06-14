@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<paramn />]]></content>
+	<tabTrigger>paramnl</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<paramn />]]></description>
+</snippet>

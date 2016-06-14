@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input id="${1}" class="" type="radio" name="" value="" />]]></content>
+	<tabTrigger>radioic</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input id="${1}" class="" type="radio" name="" value="" />]]></description>
+</snippet>

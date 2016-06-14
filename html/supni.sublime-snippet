@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<sup id="${1}">
+	
+</sup>]]></content>
+	<tabTrigger>supni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<sup id="${1}">
+	
+</sup>]]></description>
+</snippet>

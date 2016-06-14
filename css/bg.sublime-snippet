@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background:#${1} url('${2}') no-repeat 0 0;]]></content>
+	<tabTrigger>bg</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[background:#${1} url('${2}') no-repeat 0 0;]]></description>
+</snippet>

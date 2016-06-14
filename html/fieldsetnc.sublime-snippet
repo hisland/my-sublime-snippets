@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<fieldset class="${1}">
+	
+</fieldset>]]></content>
+	<tabTrigger>fieldsetnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<fieldset class="${1}">
+	
+</fieldset>]]></description>
+</snippet>

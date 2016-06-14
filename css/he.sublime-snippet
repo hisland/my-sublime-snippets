@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[height:${1}em;]]></content>
+	<tabTrigger>he</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[height:${1}em;]]></description>
+</snippet>

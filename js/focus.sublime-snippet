@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[focus(function(e){
+	${1}
+})]]></content>
+	<tabTrigger>focus</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[focus(function(e){
+	${1}
+})]]></description>
+</snippet>

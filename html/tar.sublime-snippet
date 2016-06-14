@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[readonly="readonly"${1}]]></content>
+	<tabTrigger>tar</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[readonly="readonly"${1}]]></description>
+</snippet>

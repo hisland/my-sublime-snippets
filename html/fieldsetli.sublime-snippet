@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<fieldset id="${1}"></fieldset>]]></content>
+	<tabTrigger>fieldsetli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<fieldset id="${1}"></fieldset>]]></description>
+</snippet>

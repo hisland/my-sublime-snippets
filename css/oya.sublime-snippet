@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow-y:auto;]]></content>
+	<tabTrigger>oya</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[overflow-y:auto;]]></description>
+</snippet>

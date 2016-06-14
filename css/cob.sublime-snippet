@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[color:blue;]]></content>
+	<tabTrigger>cob</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[color:blue;]]></description>
+</snippet>

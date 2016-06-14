@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min-width:auto;]]></content>
+	<tabTrigger>wma</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[min-width:auto;]]></description>
+</snippet>

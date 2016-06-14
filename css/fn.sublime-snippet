@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[float:none;]]></content>
+	<tabTrigger>fn</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[float:none;]]></description>
+</snippet>

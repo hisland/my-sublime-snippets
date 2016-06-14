@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<tr id="${1}">
+	
+</tr>]]></content>
+	<tabTrigger>trni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<tr id="${1}">
+	
+</tr>]]></description>
+</snippet>

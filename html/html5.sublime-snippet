@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+	<title>new document</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<script type="text/javascript" src="js/jquery-1.4.2.js"></script>
+	<script type="text/javascript">
+		\$(function(){
+			//run code here
+		});
+	</script>
+</head>
+<body>
+	${1}
+</body>
+</html>]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[html5 base structure]]></description>
+</snippet>

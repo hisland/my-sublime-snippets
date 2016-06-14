@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<sup class="${1}">
+	
+</sup>]]></content>
+	<tabTrigger>supnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<sup class="${1}">
+	
+</sup>]]></description>
+</snippet>

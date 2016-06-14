@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[setInterval(function() {
+	${1}
+}, ${2:10});]]></content>
+	<tabTrigger>siv</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[setInterval]]></description>
+</snippet>

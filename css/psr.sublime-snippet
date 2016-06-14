@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[position:relative;]]></content>
+	<tabTrigger>psr</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[position:relative;]]></description>
+</snippet>

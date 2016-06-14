@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding:0 auto;]]></content>
+	<tabTrigger>pd0a</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[padding:0 auto;]]></description>
+</snippet>

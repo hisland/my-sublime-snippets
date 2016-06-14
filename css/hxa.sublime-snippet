@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[max-height:auto;]]></content>
+	<tabTrigger>hxa</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[max-height:auto;]]></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ else if (${1}) {
+	${2}
+}]]></content>
+	<tabTrigger>elseif</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[else if]]></description>
+</snippet>

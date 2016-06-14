@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<form id="${1}">
+	
+</form>]]></content>
+	<tabTrigger>formni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<form id="${1}">
+	
+</form>]]></description>
+</snippet>

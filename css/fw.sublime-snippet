@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[font-weight:${1}00;]]></content>
+	<tabTrigger>fw</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[font-weight:${1}00;]]></description>
+</snippet>

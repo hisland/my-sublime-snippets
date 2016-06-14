@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow-x:auto;]]></content>
+	<tabTrigger>oxa</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[overflow-x:auto;]]></description>
+</snippet>

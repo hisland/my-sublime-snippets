@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-width:${1}px px;]]></content>
+	<tabTrigger>bdw2</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[border-width:${1}px px;]]></description>
+</snippet>

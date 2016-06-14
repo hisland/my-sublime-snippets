@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[font-family:${1};]]></content>
+	<tabTrigger>ff</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[font-family:${1};]]></description>
+</snippet>

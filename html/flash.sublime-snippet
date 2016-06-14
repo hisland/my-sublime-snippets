@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[<object width="${1}" height="" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0">
+	<param value="" name="movie"/>
+	<param value="high" name="quality"/>
+	<param value="transparent" name="wmode"/>
+	<embed height="" width="" src="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" wmode="transparent" />
+</object>]]></content>
+	<tabTrigger>flash</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<object width="${1}" height="" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0">
+	<param value="" name="movie"/>
+	<param value="high" name="quality"/>
+	<param value="transparent" name="wmode"/>
+	<embed height="" width="" src="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" wmode="transparent" />
+</object>]]></description>
+</snippet>

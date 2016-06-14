@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input id="${1}" title="" type="button" name="" value="" />]]></content>
+	<tabTrigger>buttonit</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input id="${1}" title="" type="button" name="" value="" />]]></description>
+</snippet>

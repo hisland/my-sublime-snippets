@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[case ${1}:
+	
+	break;]]></content>
+	<tabTrigger>case</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[case ${1}:
+	
+	break;]]></description>
+</snippet>

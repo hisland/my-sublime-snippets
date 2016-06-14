@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<form>${1}</form>]]></content>
+	<tabTrigger>forml</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<form>${1}</form>]]></description>
+</snippet>

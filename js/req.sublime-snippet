@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[require([${1}], function(${2}){
+	${3}
+});]]></content>
+	<tabTrigger>req</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[require([${1}], function(${2}){
+	${3}
+});]]></description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<tfoot class="${1}">
+	
+</tfoot>]]></content>
+	<tabTrigger>tfootnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<tfoot class="${1}">
+	
+</tfoot>]]></description>
+</snippet>

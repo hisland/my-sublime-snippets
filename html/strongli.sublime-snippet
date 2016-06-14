@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<strong id="${1}"></strong>]]></content>
+	<tabTrigger>strongli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<strong id="${1}"></strong>]]></description>
+</snippet>

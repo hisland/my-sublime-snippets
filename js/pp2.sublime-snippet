@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[" + ${1} + "]]></content>
+	<tabTrigger>pp2</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[" + ${1} + "]]></description>
+</snippet>

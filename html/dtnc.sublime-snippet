@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<dt class="${1}">
+	
+</dt>]]></content>
+	<tabTrigger>dtnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<dt class="${1}">
+	
+</dt>]]></description>
+</snippet>

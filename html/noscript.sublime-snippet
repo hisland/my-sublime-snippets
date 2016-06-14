@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<noscript>
+	${1}
+</noscript>]]></content>
+	<tabTrigger>noscript</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<noscript>
+	${1}
+</noscript>]]></description>
+</snippet>

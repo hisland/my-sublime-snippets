@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow-x:visible;]]></content>
+	<tabTrigger>oxv</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[overflow-x:visible;]]></description>
+</snippet>

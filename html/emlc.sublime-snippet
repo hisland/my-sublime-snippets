@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<em class="${1}"></em>]]></content>
+	<tabTrigger>emlc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<em class="${1}"></em>]]></description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<dfn id="${1}">
+	
+</dfn>]]></content>
+	<tabTrigger>dfnni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<dfn id="${1}">
+	
+</dfn>]]></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[if (${1}) {
+	${2}
+}]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[if2]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-left:none;]]></content>
+	<tabTrigger>bdln</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[border-left:none;]]></description>
+</snippet>

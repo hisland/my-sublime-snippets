@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[max-width:auto;]]></content>
+	<tabTrigger>wxa</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[max-width:auto;]]></description>
+</snippet>

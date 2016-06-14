@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<a href="javascript:;">${1}</a>]]></content>
+	<tabTrigger>al</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<a href="javascript:;">${1}</a>]]></description>
+</snippet>

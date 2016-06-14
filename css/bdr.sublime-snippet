@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-right:1px solid #${1};]]></content>
+	<tabTrigger>bdr</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[border-right:1px solid #${1};]]></description>
+</snippet>

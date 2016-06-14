@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow:scroll;]]></content>
+	<tabTrigger>os</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[overflow:scroll;]]></description>
+</snippet>

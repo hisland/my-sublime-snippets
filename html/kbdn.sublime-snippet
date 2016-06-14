@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<kbd>
+	${1}
+</kbd>]]></content>
+	<tabTrigger>kbdn</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<kbd>
+	${1}
+</kbd>]]></description>
+</snippet>

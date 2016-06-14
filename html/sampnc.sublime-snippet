@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<samp class="${1}">
+	
+</samp>]]></content>
+	<tabTrigger>sampnc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<samp class="${1}">
+	
+</samp>]]></description>
+</snippet>

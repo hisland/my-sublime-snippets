@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!--[if IE 6]> ${1} <![endif]-->]]></content>
+	<tabTrigger>ccie6</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<!--[if IE 6]> ${1} <![endif]-->]]></description>
+</snippet>

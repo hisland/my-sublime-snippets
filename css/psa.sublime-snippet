@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[position:absolute;]]></content>
+	<tabTrigger>psa</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[position:absolute;]]></description>
+</snippet>

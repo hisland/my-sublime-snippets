@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clearInterval(${1});]]></content>
+	<tabTrigger>civ</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[clearInterval(${1});]]></description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<caption id="${1}">
+	
+</caption>]]></content>
+	<tabTrigger>captionni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<caption id="${1}">
+	
+</caption>]]></description>
+</snippet>

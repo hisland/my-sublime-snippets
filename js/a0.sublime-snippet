@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[()=>{
+	${1}
+}]]></content>
+	<tabTrigger>a0</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[()=>{
+	${1}
+}]]></description>
+</snippet>

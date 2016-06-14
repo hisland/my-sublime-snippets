@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding-right:${1}px;]]></content>
+	<tabTrigger>pdr</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[padding-right:${1}px;]]></description>
+</snippet>

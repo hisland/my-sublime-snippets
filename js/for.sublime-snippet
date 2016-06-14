@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[for(var i=${1}; i<${2}; i++){
+	${3}
+}]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[for(var i=${1}; i<; i++){}]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<th id="${1}"></th>]]></content>
+	<tabTrigger>thli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<th id="${1}"></th>]]></description>
+</snippet>

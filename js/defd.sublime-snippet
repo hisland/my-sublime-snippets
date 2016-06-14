@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[define([${1}], function(${2}){
+
+${3}
+
+});]]></content>
+	<tabTrigger>defd</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[define([${1}], function(${2}){${3}});]]></description>
+</snippet>

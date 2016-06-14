@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[position:static;]]></content>
+	<tabTrigger>pss</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[position:static;]]></description>
+</snippet>

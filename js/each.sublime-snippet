@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[each(${1}function(v, i, o){
+	${2}
+});]]></content>
+	<tabTrigger>each</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[each(function(v, i, o){});]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-overflow:ellipsis;]]></content>
+	<tabTrigger>toe</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[text-overflow:ellipsis;]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[top:${1}px;]]></content>
+	<tabTrigger>pt</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[top:${1}px;]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input title="${1}" type="text" name="" value="" />]]></content>
+	<tabTrigger>textt</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input title="${1}" type="text" name="" value="" />]]></description>
+</snippet>

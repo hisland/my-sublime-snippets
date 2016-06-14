@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min-height:auto;]]></content>
+	<tabTrigger>hma</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[min-height:auto;]]></description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[require(['jquery', 'kissy'], function(\$, S){
+
+${1}
+
+});]]></content>
+	<tabTrigger>reqe</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[require(['jquery', 'kissy'], function(\$, S){
+
+${1}
+
+});]]></description>
+</snippet>

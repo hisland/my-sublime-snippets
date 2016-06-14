@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[table-layout:fixed;]]></content>
+	<tabTrigger>tlf</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[table-layout:fixed;]]></description>
+</snippet>

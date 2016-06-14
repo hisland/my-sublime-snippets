@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<legend>${1}</legend>]]></content>
+	<tabTrigger>legendl</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<legend>${1}</legend>]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<ul class="${1}"></ul>]]></content>
+	<tabTrigger>ullc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<ul class="${1}"></ul>]]></description>
+</snippet>

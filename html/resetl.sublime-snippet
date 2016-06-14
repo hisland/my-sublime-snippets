@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input type="reset" value="${1}" />]]></content>
+	<tabTrigger>resetl</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input type="reset" value="${1}" />]]></description>
+</snippet>

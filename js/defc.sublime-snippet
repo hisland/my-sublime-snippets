@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[define(function(require, exports, module){
+
+${1}
+
+});]]></content>
+	<tabTrigger>defc</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[define(function(require, exports, module){
+
+${1}
+
+});]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<p id="${1}"></p>]]></content>
+	<tabTrigger>pli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<p id="${1}"></p>]]></description>
+</snippet>

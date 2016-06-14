@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<iframe src="${1}" frameborder="no" scrolling="no" allowtransparency="yes"></iframe>]]></content>
+	<tabTrigger>iframen</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<iframe src="${1}" frameborder="no" scrolling="no" allowtransparency="yes"></iframe>]]></description>
+</snippet>

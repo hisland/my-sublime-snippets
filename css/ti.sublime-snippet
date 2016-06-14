@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-indent:${1}em;]]></content>
+	<tabTrigger>ti</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[text-indent:${1}em;]]></description>
+</snippet>

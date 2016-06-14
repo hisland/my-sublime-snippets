@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[,
+/**
+ * 
+ * @param 
+ * @return 
+ */
+${1}: function(){
+	
+}]]></content>
+	<tabTrigger>meth</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[,
+/**
+ * 
+ * @param 
+ * @return 
+ */
+${1}: function(){
+	
+}]]></description>
+</snippet>

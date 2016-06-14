@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<code id="${1}">
+	
+</code>]]></content>
+	<tabTrigger>codeni</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<code id="${1}">
+	
+</code>]]></description>
+</snippet>

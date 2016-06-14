@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<optgroup id="${1}"></optgroup>]]></content>
+	<tabTrigger>optgroupli</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<optgroup id="${1}"></optgroup>]]></description>
+</snippet>

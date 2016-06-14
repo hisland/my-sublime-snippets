@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[display:table-cell;]]></content>
+	<tabTrigger>dtc</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[display:table-cell;]]></description>
+</snippet>

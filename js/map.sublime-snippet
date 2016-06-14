@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[map(${1}function(i, v, o){
+	${2}
+});]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[map(function(i, v, o){});]]></description>
+</snippet>

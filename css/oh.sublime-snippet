@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow:hidden;]]></content>
+	<tabTrigger>oh</tabTrigger>
+	<scope>source.css, style.jade, source.less</scope>
+	<description><![CDATA[overflow:hidden;]]></description>
+</snippet>

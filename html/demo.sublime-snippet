@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[<div class="demo-section">
+	<div class="demo-legend">${1}</div>
+	<div class="demo-box">
+		<p></p>
+	</div>
+</div>]]></content>
+	<tabTrigger>demo</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<div class="demo-section">
+	<div class="demo-legend">${1}</div>
+	<div class="demo-box">
+		<p></p>
+	</div>
+</div>]]></description>
+</snippet>

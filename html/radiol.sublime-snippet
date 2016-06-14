@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input type="radio" name="" value="${1}" />]]></content>
+	<tabTrigger>radiol</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<input type="radio" name="" value="${1}" />]]></description>
+</snippet>

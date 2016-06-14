@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<del class="${1}"></del>]]></content>
+	<tabTrigger>dellc</tabTrigger>
+	<scope>text.html</scope>
+	<description><![CDATA[<del class="${1}"></del>]]></description>
+</snippet>

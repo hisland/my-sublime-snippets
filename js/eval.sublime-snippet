@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[eval('(' + ${1} + ')')]]></content>
+	<tabTrigger>eval</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[eval('(' + ${1} + ')')]]></description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[S.mix(${1}, {
+	
+});]]></content>
+	<tabTrigger>smix</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[S.mix(${1}, {
+	
+});]]></description>
+</snippet>

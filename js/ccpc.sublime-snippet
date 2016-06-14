@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[/**
+ * <pre><code>
+ * ${1}
+ * </code></pre>
+ */
+]]></content>
+	<tabTrigger>ccpc</tabTrigger>
+	<scope>source.js, script.jade</scope>
+	<description><![CDATA[/**
+ * <pre><code>
+ * ${1}
+ * </code></pre>
+ */
+]]></description>
+</snippet>
