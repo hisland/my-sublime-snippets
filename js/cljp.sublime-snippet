@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.log(JSON.stringify(${1}, null, ' '))]]></content>
+	<tabTrigger>cljp</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[console.log(JSON.stringify(${1}, null, ' '))]]></description>
+</snippet>
