@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+<style lang="less" scoped>
+</style>
+<template lang="pug">
+div
+</template>
+<script>
+export default {
+  components: {
+  },
+  data() {
+    return {
+      some: 'data'
+    }
+  },
+  mounted() {
+    this.$nextTick(function() { // 确保dom已经生成, 操作放在此回调里面
+    })
+  },
+  methods: {
+  },
+}
+</script>
+]]></content>
+	<tabTrigger>vue-init</tabTrigger>
+	<scope>vue</scope>
+	<description><![CDATA[vue-init-snippet]]></description>
+</snippet>
