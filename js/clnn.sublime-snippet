@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.log('\n\n\n')]]></content>
+	<tabTrigger>clnn</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[console.log('\n\n\n')]]></description>
+</snippet>

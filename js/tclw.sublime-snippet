@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[this.ctx.logger.warn(${1})]]></content>
+	<tabTrigger>tclw</tabTrigger>
+	<scope>source.js, script.jade, source.ts</scope>
+	<description><![CDATA[this.ctx.logger.warn(${1})]]></description>
+</snippet>
